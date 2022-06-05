@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ignore ALL .pdf files
+*.pdf
+
+# Datasets
+*.csv
